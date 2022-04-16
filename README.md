@@ -7,3 +7,5 @@ vestuários do nicho fitness.
 
 As cores escuras foram escolhidas para remeterem seriedade e as tonalidades
 vermelhas foram inspiradas em tantas outras marcas do meio fitness
+
+<img src = "img/Imagem-do-site.png">
